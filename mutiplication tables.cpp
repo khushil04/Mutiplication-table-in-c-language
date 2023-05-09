@@ -7,10 +7,5 @@ int main()
 	for (;n<=10;){
 		printf("%d*%d = %d\n",x,n,x*n);
 		n++;
-	}
-			
-	
-	
-		
-	
+	}		
 }
